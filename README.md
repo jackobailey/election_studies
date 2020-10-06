@@ -1,4 +1,4 @@
-# The Big Election Studies Spreadsheet!
+# 🗳 The Big Election Studies Spreadsheet! 📊
 
 This repository contains a spreadsheet of all known election studies and where to find them. For now, it focusses only on those election studies that use some version of "gold standard" random probability sampling, but I'm not averse to amending that in the future.
 
